@@ -1,0 +1,1 @@
+A small python project to test out my ability of working with functions and Random module in Python. User can play multiple games with a choice of bet. AI then plays against him.
